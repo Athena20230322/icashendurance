@@ -1,0 +1,1 @@
+{"EncData":"RcpJvFt9J43jM33EG+PGDARIoDdI/Ou3iygG65wUuijuwSIuzTUr0cjkfSZBbDx86O6bGoFIcm7zrb/oGMSXpDNjMEsA8ti2PA1Km8SDwiSREcg8zpJgOrq8g6mv7TzjLmj0I5Dlm+er/TJSMWPRss9CPnzfamsRKO5wSUdFy7qDINmuaaEFsc3CJdEQSv84+QzpP5mqV5YBYu4X6hL8OdCrYrmo/cWc6J9Emyzt4wIkIgTqG/UkUBpZlYDq2mkc","RtnCode":1,"RtnMsg":"訊息代碼：0001，成功"}

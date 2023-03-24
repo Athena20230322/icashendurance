@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "工作-GetToken",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "工作-UserCodeLogin2022",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
